@@ -1,0 +1,4 @@
+[  
+  { "keys": ["alt+/"], "command": "auto_complete" },
+  { "keys": ["ctrl+shift+c"], "command": "exec", "args": {"kill": true} }
+]

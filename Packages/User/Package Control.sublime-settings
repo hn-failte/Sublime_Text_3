@@ -1,0 +1,35 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"ChineseLocalizations",
+		"ConvertToUTF8",
+		"CSS Snippets",
+		"Emmet",
+		"GBK Support",
+		"HTML Snippets",
+		"IMESupport",
+		"jQuery Snippets pack",
+		"JS Snippets",
+		"Nodejs",
+		"Package Control",
+		"Python 3",
+		"SCSS",
+		"Sublimerge 3",
+		"SublimeServer",
+		"Vuejs Snippets",
+		"LESS",
+		"JsFormat",
+		"cssrem",
+		"AllAutocomplete",
+		"sublime-jsdocs",
+		"sublime-text-git"
+		// "AutoFileName"
+	],
+	"ignore_vcs_packages": 
+	[
+	],
+}
