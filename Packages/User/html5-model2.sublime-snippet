@@ -4,18 +4,18 @@
 <html>
 <head>
     <meta charset="UTF-8">
-    <title>title</title>
+    <link rel="shortcut icon" href="path/to/favicon.ico">
     <meta name="keywords" content="" />
     <meta name="description" content="" />
-    <meta name="viewport" content="width=640,user-scalable=no" />
-    <!--<meta name="viewport" content="initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0,user-scalable=no,minimal-ui">-->
+<!--    <meta name="viewport" content="initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0,user-scalable=no,minimal-ui">-->
     <meta http-equiv="cleartype" content="on">
     <meta name="apple-mobile-web-app-title" content="...">
     <meta name="apple-mobile-web-app-capable" content="yes">
     <meta name="format-detection" content="telephone=no">
     <meta http-equiv="x-rim-auto-match" content="none">
     <meta name="apple-touch-fullscreen" content="yes">
-    <meta name="apple-mobile-web-app-status-bar-style" content="black">
+<!--    <meta name="apple-mobile-web-app-status-bar-style" content="black">-->
+    <base target="_blank" />
     <!-- uc强制竖屏 -->
     <meta name="screen-orientation" content="portrait">
     <!-- QQ强制竖屏 -->
@@ -26,8 +26,12 @@
     <meta name="x5-fullscreen" content="true">
     <link rel="stylesheet" href="reset.css">
     <link rel="stylesheet" href="index.css">
-    <title>untitled</title>
-
+    <link rel="stylesheet/less" href="index.less">
+    <script>less = { env: 'development'};</script>
+    <script src="../../js/less-1.3.3.min.js"></script>
+    <script>less.watch();</script>
+    <script src="flexible.js"></script>
+    <title>My Page</title>
 </head>
 <body>
     

@@ -22,10 +22,11 @@
 			"selector": "string.quoted.double.html,string.quoted.single.html, source.css"
 		}
 	],
-	"color_scheme": "Packages/Color Scheme - Default/Monokai.sublime-color-scheme",
-	"font_size": 11,
+	"color_scheme": "Packages/Color Scheme - Default/Mariana.sublime-color-scheme",
+	"font_size": 13,
 	"ignored_packages":
 	[
 		"Vintage"
-	]
+	],
+	"theme": "Adaptive.sublime-theme"
 }

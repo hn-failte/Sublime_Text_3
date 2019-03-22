@@ -1,5 +1,8 @@
 {
 	"bootstrapped": true,
+	"ignore_vcs_packages":
+	[
+	],
 	"in_process_packages":
 	[
 	],
@@ -27,9 +30,5 @@
 		"AllAutocomplete",
 		"sublime-jsdocs",
 		"sublime-text-git"
-		// "AutoFileName"
-	],
-	"ignore_vcs_packages": 
-	[
-	],
+	]
 }

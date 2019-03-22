@@ -1,21 +1,298 @@
 {
 	"folder_history":
 	[
+		"/E/Front-End/Front-End",
+		"/E/Front-End",
+		"/E/Front-End/Front-End/Demo2 Iframe",
 		"/D/Apache24/htdocs",
-		"/E/Front-End/Front-End"
+		"/E/Front-End/Front-End/JavaScript深度学习",
+		"/C/Users/failte/Desktop/胡志成",
+		"/C/Users/failte/Desktop"
 	],
 	"last_version": 3200,
-	"last_window_id": 11,
+	"last_window_id": 36,
 	"log_indexing": false,
 	"settings":
 	{
-		"new_window_height": 479.2,
+		"new_window_height": 480.0,
 		"new_window_settings":
 		{
 			"auto_complete":
 			{
 				"selected_items":
 				[
+					[
+						"bir",
+						"bird"
+					],
+					[
+						"marg",
+						"margin\tproperty"
+					],
+					[
+						"clear",
+						"clearRect"
+					],
+					[
+						"bird",
+						"birdW"
+					],
+					[
+						"pos",
+						"posY"
+					],
+					[
+						"con",
+						"console"
+					],
+					[
+						"base",
+						"baseHeight"
+					],
+					[
+						"pipeH",
+						"pipeBaseHeight"
+					],
+					[
+						"clea",
+						"clearInterval"
+					],
+					[
+						"co",
+						"console.log"
+					],
+					[
+						"pipe",
+						"pipe"
+					],
+					[
+						"icon",
+						"iconfont\t(index.html)"
+					],
+					[
+						"res",
+						"response"
+					],
+					[
+						"req",
+						"requestMsg"
+					],
+					[
+						"httpE",
+						"httpRequest"
+					],
+					[
+						"cons",
+						"const"
+					],
+					[
+						"consol",
+						"console.log\t(test.js)"
+					],
+					[
+						"html",
+						"html\thtml5-model1"
+					],
+					[
+						"meta",
+						"meta\tTag"
+					],
+					[
+						"print",
+						"print_r"
+					],
+					[
+						"var",
+						"var_dump"
+					],
+					[
+						"index",
+						"index.php"
+					],
+					[
+						"k",
+						"keyframes"
+					],
+					[
+						"table",
+						"table-layout\tproperty"
+					],
+					[
+						"wrap",
+						"wrapperHeight"
+					],
+					[
+						"wrapper",
+						"wrapper-box\t(index.html)"
+					],
+					[
+						"padding",
+						"padding\tproperty"
+					],
+					[
+						"margin-",
+						"margin-top\tproperty"
+					],
+					[
+						"auto",
+						"autofocus"
+					],
+					[
+						"search-b",
+						"search-box\t(index.html)"
+					],
+					[
+						"footer",
+						"footerHeight\t(base.less)"
+					],
+					[
+						"margin",
+						"margin\tproperty"
+					],
+					[
+						"header",
+						"headerHeight\t(base.less)"
+					],
+					[
+						"flex",
+						"flex-grow\tproperty"
+					],
+					[
+						"hid",
+						"hidden\toverflow"
+					],
+					[
+						"pad",
+						"padding"
+					],
+					[
+						"back",
+						"background-size"
+					],
+					[
+						"animation-",
+						"animation-play-state\tproperty"
+					],
+					[
+						"space",
+						"space-around\tjustify-content"
+					],
+					[
+						"no",
+						"nowrap\tflex-wrap"
+					],
+					[
+						"flex-",
+						"flex-wrap\tproperty"
+					],
+					[
+						"more",
+						"moreHeight"
+					],
+					[
+						"c",
+						"collapse\tborder-collapse"
+					],
+					[
+						"ce",
+						"cellspacing\tAttr"
+					],
+					[
+						"partner",
+						"partnerHeight"
+					],
+					[
+						"video",
+						"videoHeight"
+					],
+					[
+						"ved",
+						"videoHeight"
+					],
+					[
+						"compa",
+						"companyHeight"
+					],
+					[
+						"i",
+						"images/"
+					],
+					[
+						"ad",
+						"adHeight"
+					],
+					[
+						"nav",
+						"navHeight"
+					],
+					[
+						"bann",
+						"bannerHeight"
+					],
+					[
+						"ba",
+						"background"
+					],
+					[
+						"spa",
+						"space-around\tjustify-content"
+					],
+					[
+						"block",
+						"inline-block\tdisplay"
+					],
+					[
+						"url",
+						"url()\tbackground"
+					],
+					[
+						"spac",
+						"space-between\tjustify-content"
+					],
+					[
+						"pa",
+						"padding"
+					],
+					[
+						"il",
+						"inline-block\tdisplay"
+					],
+					[
+						"border",
+						"border-box"
+					],
+					[
+						"box",
+						"box-sizing"
+					],
+					[
+						"di",
+						"display\tproperty"
+					],
+					[
+						"div",
+						"div"
+					],
+					[
+						"word",
+						"word-break\tproperty"
+					],
+					[
+						"txe",
+						"text-align"
+					],
+					[
+						"column",
+						"column\tflex-direction"
+					],
+					[
+						"or",
+						"order-on\t(order.less)"
+					],
+					[
+						"fonts",
+						"font-size\tproperty"
+					],
 					[
 						"console",
 						"console.log"
@@ -25,24 +302,8 @@
 						"footerHeight\t(base.less)"
 					],
 					[
-						"margin",
-						"margin-bottom\tproperty"
-					],
-					[
-						"border",
-						"border-bottom"
-					],
-					[
-						"padding",
-						"padding-top\tproperty"
-					],
-					[
 						"a",
 						"a\ta-none"
-					],
-					[
-						"flex",
-						"flex-end\tjustify-content"
 					],
 					[
 						"heade",
@@ -51,10 +312,6 @@
 					[
 						"animation",
 						"animation-play-state\tproperty"
-					],
-					[
-						"animation-",
-						"animation-iteration-count\tproperty"
 					],
 					[
 						"anima",
@@ -85,14 +342,6 @@
 						"transform\tCSS - transform: ;"
 					],
 					[
-						"html",
-						"html\tMyHTML1"
-					],
-					[
-						"index",
-						"index.html"
-					],
-					[
 						"day",
 						"day16_a1.html"
 					],
@@ -117,20 +366,12 @@
 						"absolute\tposition"
 					],
 					[
-						"pos",
-						"position\tproperty"
-					],
-					[
 						"pading",
 						"padding-left\tproperty"
 					],
 					[
 						"paddng",
 						"padding-left\tproperty"
-					],
-					[
-						"con",
-						"contain\tbackground-size"
 					],
 					[
 						"im",
@@ -161,10 +402,6 @@
 						"box-sizing\tproperty"
 					],
 					[
-						"pad",
-						"padding\tproperty"
-					],
-					[
 						"font",
 						"font-size\tproperty"
 					],
@@ -175,10 +412,6 @@
 					[
 						"min",
 						"min-width\tproperty"
-					],
-					[
-						"ba",
-						"background\tproperty"
 					],
 					[
 						"style",
@@ -233,12 +466,106 @@
 			},
 			"file_history":
 			[
-				"/E/Front-End/Front-End/JavaScript深度学习/积累阅读/sublime_text3实用插件.md",
+				"/D/Apache24/htdocs/day20/day20_a2.js",
+				"/E/Front-End/hn-failte.github.io/_posts/2019-02-10-c-gluttonous-snake.md",
+				"/E/Front-End/hn-failte.github.io/_posts/2019-02-10-css-content-center.md",
+				"/E/Front-End/hn-failte.github.io/_posts/2019-02-10-css-layout-model.md",
+				"/E/Front-End/hn-failte.github.io/_posts/2019-02-10-discuz-website.md",
+				"/E/Front-End/hn-failte.github.io/_posts/2019-02-10-js-closure.md",
+				"/E/Front-End/hn-failte.github.io/_posts/2019-02-10-js-logic-compute.md",
+				"/E/Front-End/hn-failte.github.io/_posts/2019-02-10-js-timer-function.md",
+				"/E/Front-End/hn-failte.github.io/_posts/2019-02-10-markdown-total.md",
+				"/E/Front-End/hn-failte.github.io/_posts/2019-02-10-Markdown-Editor-Example.md",
+				"/E/Front-End/hn-failte.github.io/_posts/2019-02-18-js-RegExp-Standard.md",
+				"/E/Front-End/hn-failte.github.io/_posts/2019-02-19-html-List-Style.md",
+				"/E/Front-End/hn-failte.github.io/_posts/2019-02-20-css-Import-CSS.md",
+				"/E/Front-End/hn-failte.github.io/_posts/2019-02-21-css-CSS-Selector.md",
+				"/C/Users/failte/Desktop/1阶段总结.md",
+				"/D/Apache24/htdocs/day20/day20_a3.html",
+				"/E/Front-End/hn-failte.github.io/_posts/2019-03-20-js-value-change.md",
+				"/E/Front-End/Front-End/UnSort/javascript犀利的效果100个   你懂得/CSS将图片自动变为圆角/code.htm",
+				"/E/Front-End/Front-End/UnSort/javascript犀利的效果100个   你懂得/CSS强制等比例缩小图片/code.htm",
+				"/E/Front-End/Front-End/UnSort/test4.html",
+				"/E/Front-End/Front-End/UnSort/demo2.html",
+				"/E/Front-End/Front-End/UnSort/canvas.html",
+				"/E/Front-End/Front-End/UnSort/test5.html",
+				"/E/Front-End/Front-End/UnSort/test3.html",
+				"/E/Front-End/hn-failte.github.io/_posts/2019-03-17-css-LESS.md",
+				"/E/Front-End/hn-failte.github.io/_posts/2019-02-10-js-eventlistener.md",
+				"/D/Apache24/htdocs/flappybird/index.js",
+				"/D/Apache24/htdocs/flappybird/index.html",
+				"/D/Apache24/htdocs/flappybird/index.less",
 				"/C/Users/failte/AppData/Roaming/Sublime Text 3/Packages/User/Package Control.sublime-settings",
-				"/D/Apache24/htdocs/day17/meituan/css/my.less",
-				"/C/Users/failte/AppData/Roaming/Sublime Text 3/Packages/DocBlockr/README.md",
+				"/D/Apache24/htdocs/flappybird/reset.css",
+				"/D/Apache24/htdocs/day18/file.js",
+				"/D/Apache24/htdocs/day18/router.js",
+				"/E/Front-End/Front-End/JavaScript深度学习/Node.js/myhttp.js.dump",
+				"/C/Users/failte/AppData/Roaming/Sublime Text 3/Packages/User/css-reset1.sublime-snippet",
+				"/d/Apache24/htdocs/day18/day18_a1.js",
+				"/E/1000Phone/资料/阶段.md",
+				"/D/Apache24/htdocs/nav/index.html",
+				"/D/Apache24/htdocs/nav/css/base.less",
+				"/D/Apache24/htdocs/nav/css/index.less",
+				"/D/Apache24/htdocs/nav/js/index.js",
+				"/D/Apache24/htdocs/nav/js/links.json",
+				"/C/Users/failte/Desktop/test.html",
+				"/D/Apache24/htdocs/nav/ajax.php",
+				"/D/Apache24/htdocs/nav/index.php",
+				"/D/Apache24/htdocs/nav/server_node.js",
+				"/D/Apache24/htdocs/nav/readImage.js",
+				"/E/Android/HomeManager/src/com/DreamMaker/HomeManager/MainActivity.java.dump",
+				"/E/Android/HomeManager/src/com/DreamMaker/HomeManager/MainActivity.java",
+				"/D/Apache24/htdocs/ajax/index.php.dump",
+				"/E/Front-End/Front-End/JavaScript深度学习/Node.js/get.html",
+				"/E/Front-End/Front-End/JavaScript深度学习/Node.js/server.js",
+				"/E/Front-End/Front-End/JavaScript深度学习/Node.js/post.html",
+				"/E/Front-End/Front-End/JavaScript深度学习/Node.js/data.js",
+				"/E/Front-End/Front-End/JavaScript深度学习/Node.js/datatest.js",
+				"/E/Front-End/Front-End/JavaScript深度学习/积累阅读/JS跳转.md",
+				"/E/Front-End/Front-End/JavaScript深度学习/JS算法&函数.js",
+				"/E/Front-End/Front-End/JavaScript深度学习/Ajax/Demo16/test_16_2.php.dump",
+				"/D/Apache24/htdocs/LESS/test.less",
+				"/D/Apache24/htdocs/LESS/test.html",
+				"/D/Apache24/htdocs/LESS/test.css",
+				"/D/Apache24/htdocs/nav/index_0.html",
+				"/D/Apache24/htdocs/nav/css/reset.css",
+				"/D/Apache24/htdocs/nav/index.js",
+				"/D/Apache24/htdocs/nav/StarsGuidance.css.dump",
+				"/C/Users/failte/AppData/Roaming/Sublime Text 3/Packages/User/html5-model1.sublime-snippet",
+				"/C/Users/failte/AppData/Roaming/Sublime Text 3/Packages/User/html5-model2.sublime-snippet",
 				"/D/Apache24/htdocs/day17/meituan/css/base.less",
+				"/D/Apache24/htdocs/.gitignore",
+				"/D/Apache24/htdocs/day17/meituan/main.html",
+				"/D/Apache24/htdocs/day17/meituan/order.html",
+				"/D/Apache24/htdocs/day17/meituan/my.html",
+				"/D/Apache24/htdocs/day17/meituan/index.html",
+				"/D/Apache24/htdocs/day17/meituan/css/main.less",
+				"/C/Users/failte/AppData/Roaming/Sublime Text 3/Packages/User/css-rem.sublime-snippet",
+				"/C/Users/failte/AppData/Roaming/Sublime Text 3/Packages/User/less-config.sublime-snippet",
+				"/C/Users/failte/AppData/Roaming/Sublime Text 3/Packages/User/a-none.sublime-snippet",
+				"/C/Users/failte/Desktop/胡志成/reset.css",
+				"/C/Users/failte/AppData/Roaming/Sublime Text 3/Packages/User/MyHTML1.sublime-snippet",
+				"/C/Users/failte/AppData/Roaming/Sublime Text 3/Packages/User/MyHTML2.sublime-snippet",
+				"/C/Users/failte/AppData/Roaming/Sublime Text 3/Packages/User/MyCSSReset1.sublime-snippet",
+				"/C/Users/failte/Desktop/胡志成/web/html/page1.html",
+				"/C/Users/failte/Desktop/胡志成/web/css/page2.css",
+				"/C/Users/failte/Desktop/胡志成/web/html/page2.html",
+				"/C/Users/failte/Desktop/胡志成/web/css/base.less",
+				"/C/Users/failte/Desktop/胡志成/web/css/page2.less",
+				"/C/Users/failte/Desktop/胡志成/pc/html/index.html",
+				"/C/Users/failte/Desktop/胡志成/pc/css/index.less",
+				"/C/Users/failte/Desktop/胡志成/web/css/page1.less",
+				"/D/Apache24/htdocs/index.html",
+				"/D/Apache24/htdocs/index.css",
+				"/D/Apache24/htdocs/day14/huarun/base.less",
+				"/D/Apache24/htdocs/day14/huarun/index.html",
+				"/D/Apache24/htdocs/index.less",
 				"/D/Apache24/htdocs/day17/meituan/css/order.less",
+				"/D/Apache24/htdocs/day17/meituan/css/my.less",
+				"/D/Apache24/htdocs/day17/day17_m1.html",
+				"/C/Users/failte/Desktop/reset.css",
+				"/E/Front-End/Front-End/JavaScript深度学习/积累阅读/sublime_text3实用插件.md",
+				"/C/Users/failte/AppData/Roaming/Sublime Text 3/Packages/DocBlockr/README.md",
 				"/D/Apache24/htdocs/day17/day17_a1.html",
 				"/C/Windows/System32/drivers/etc/hosts",
 				"/D/Apache24/htdocs/day17/day17_a1.less",
@@ -247,60 +574,34 @@
 				"/D/Apache24/htdocs/day17/胡志成/meituan/my.html",
 				"/D/Apache24/htdocs/day17/day17_a2.html",
 				"/D/Apache24/htdocs/day17/meituan/order.less",
-				"/D/Apache24/htdocs/day17/meituan/my.html",
-				"/D/Apache24/htdocs/day17/meituan/index.html",
-				"/D/Apache24/htdocs/day17/meituan/order.html",
 				"/D/Apache24/htdocs/day17/meituan/my.less",
 				"/C/Users/failte/AppData/Roaming/Sublime Text 3/Packages/User/cssrem.sublime-settings",
 				"/D/Apache24/htdocs/day17/day17_a2.less",
 				"/C/Users/failte/AppData/Roaming/Sublime Text 3/Packages/Package Control/Package Control.sublime-settings",
 				"/C/Users/failte/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
 				"/D/Apache24/htdocs/day17/day17_m1.less",
-				"/D/Apache24/htdocs/day17/day17_m1.html",
 				"/D/Apache24/htdocs/day17/meituan/index.less",
 				"/D/Apache24/htdocs/day17/meituan/reset.css",
 				"/D/Apache24/htdocs/day17/meituan/base.less",
 				"/D/Apache24/htdocs/day13/shapes.html",
-				"/D/Apache24/htdocs/index.html",
 				"/D/Apache24/htdocs/day16/day16_a1.html",
 				"/D/Apache24/htdocs/day16/meituan/index.html",
 				"/D/Apache24/htdocs/day16/meituan/index.less",
 				"/D/Apache24/htdocs/day16/meituan/base.less",
-				"/C/Users/failte/AppData/Roaming/Sublime Text 3/Packages/User/a-none.sublime-snippet",
 				"/C/Users/failte/Desktop/SublimeServer/SublimeServer.py",
 				"/D/Apache24/htdocs/day16/day16_a1.less",
 				"/D/Apache24/htdocs/day16/demo04.html",
 				"/E/1000Phone/资料/day16/demo04.html",
 				"/D/Apache24/htdocs/day15/day15_m1.html",
-				"/C/Users/failte/AppData/Roaming/Sublime Text 3/Packages/AutoFileName/autofilename.sublime-settings",
-				"/C/Users/failte/AppData/Roaming/Sublime Text 3/Packages/cssrem/cssrem.sublime-settings",
-				"/C/Users/failte/AppData/Roaming/Sublime Text 3/Packages/User/toRem.sublime-snippet",
-				"/D/Apache24/htdocs/day16/flexible.js",
-				"/D/Apache24/htdocs/day16/meituan/reset.css",
-				"/D/Apache24/htdocs/day15/alipay/index.css",
-				"/D/Apache24/htdocs/day15/alipay/index.html",
-				"/D/Apache24/htdocs/day15/alipay/test.html",
-				"/D/Apache24/htdocs/day14/huarun/base.less",
-				"/D/Apache24/htdocs/day15/day15_a1.html",
-				"/D/Apache24/htdocs/day15/football.html",
-				"/D/Apache24/htdocs/football.html",
-				"/E/1000Phone/资料/day15/football.html",
-				"/D/Apache24/htdocs/day13/shapes.less",
-				"/C/Users/failte/Desktop/计算机专业词汇.md",
-				"/D/Apache24/htdocs/day15/index.less",
-				"/D/Apache24/htdocs/index.css",
-				"/D/Apache24/htdocs/index.less",
-				"/D/Apache24/htdocs/day12/qianfeng/css/index.less",
-				"/D/Apache24/htdocs/LESS/test.less",
-				"/D/Apache24/htdocs/LESS/test.html"
+				"/C/Users/failte/AppData/Roaming/Sublime Text 3/Packages/AutoFileName/autofilename.sublime-settings"
 			],
 			"find":
 			{
-				"height": 28.0
+				"height": 29.0
 			},
 			"find_in_files":
 			{
-				"height": 0.0,
+				"height": 105.0,
 				"where_history":
 				[
 				]
@@ -310,6 +611,13 @@
 				"case_sensitive": false,
 				"find_history":
 				[
+					"bird",
+					"birdFall",
+					"bird.birdFall",
+					"result",
+					"gameDiff",
+					"setBody",
+					"resetBody"
 				],
 				"highlight": true,
 				"in_selection": false,
@@ -326,13 +634,17 @@
 			},
 			"incremental_find":
 			{
-				"height": 28.0
+				"height": 29.0
 			},
 			"input":
 			{
 				"height": 45.0
 			},
 			"menu_visible": true,
+			"output.exec":
+			{
+				"height": 108.8
+			},
 			"output.find_results":
 			{
 				"height": 0.0
@@ -344,7 +656,7 @@
 			"pinned_build_system": "",
 			"replace":
 			{
-				"height": 52.0
+				"height": 54.0
 			},
 			"save_all_on_build": true,
 			"select_file":
@@ -394,6 +706,294 @@
 				"selected_items":
 				[
 					[
+						"meta",
+						"meta\tHTML - Meta tags"
+					],
+					[
+						"bn",
+						"btn0"
+					],
+					[
+						"even",
+						"evenSum"
+					],
+					[
+						"ar",
+						"arg1"
+					],
+					[
+						"rain",
+						"rainFall"
+					],
+					[
+						"con",
+						"console.log"
+					],
+					[
+						"bir",
+						"bird"
+					],
+					[
+						"marg",
+						"margin\tproperty"
+					],
+					[
+						"clear",
+						"clearRect"
+					],
+					[
+						"bird",
+						"birdW"
+					],
+					[
+						"pos",
+						"posY"
+					],
+					[
+						"base",
+						"baseHeight"
+					],
+					[
+						"pipeH",
+						"pipeBaseHeight"
+					],
+					[
+						"clea",
+						"clearInterval"
+					],
+					[
+						"co",
+						"console.log"
+					],
+					[
+						"pipe",
+						"pipe"
+					],
+					[
+						"icon",
+						"iconfont\t(index.html)"
+					],
+					[
+						"res",
+						"response"
+					],
+					[
+						"req",
+						"requestMsg"
+					],
+					[
+						"httpE",
+						"httpRequest"
+					],
+					[
+						"cons",
+						"const"
+					],
+					[
+						"consol",
+						"console.log\t(test.js)"
+					],
+					[
+						"html",
+						"html\thtml5-model1"
+					],
+					[
+						"print",
+						"print_r"
+					],
+					[
+						"var",
+						"var_dump"
+					],
+					[
+						"index",
+						"index.php"
+					],
+					[
+						"k",
+						"keyframes"
+					],
+					[
+						"table",
+						"table-layout\tproperty"
+					],
+					[
+						"wrap",
+						"wrapperHeight"
+					],
+					[
+						"wrapper",
+						"wrapper-box\t(index.html)"
+					],
+					[
+						"padding",
+						"padding\tproperty"
+					],
+					[
+						"margin-",
+						"margin-top\tproperty"
+					],
+					[
+						"auto",
+						"autofocus"
+					],
+					[
+						"search-b",
+						"search-box\t(index.html)"
+					],
+					[
+						"footer",
+						"footerHeight\t(base.less)"
+					],
+					[
+						"margin",
+						"margin\tproperty"
+					],
+					[
+						"header",
+						"headerHeight\t(base.less)"
+					],
+					[
+						"flex",
+						"flex-grow\tproperty"
+					],
+					[
+						"hid",
+						"hidden\toverflow"
+					],
+					[
+						"pad",
+						"padding"
+					],
+					[
+						"back",
+						"background-size"
+					],
+					[
+						"animation-",
+						"animation-play-state\tproperty"
+					],
+					[
+						"space",
+						"space-around\tjustify-content"
+					],
+					[
+						"no",
+						"nowrap\tflex-wrap"
+					],
+					[
+						"flex-",
+						"flex-wrap\tproperty"
+					],
+					[
+						"more",
+						"moreHeight"
+					],
+					[
+						"c",
+						"collapse\tborder-collapse"
+					],
+					[
+						"ce",
+						"cellspacing\tAttr"
+					],
+					[
+						"partner",
+						"partnerHeight"
+					],
+					[
+						"video",
+						"videoHeight"
+					],
+					[
+						"ved",
+						"videoHeight"
+					],
+					[
+						"compa",
+						"companyHeight"
+					],
+					[
+						"i",
+						"images/"
+					],
+					[
+						"ad",
+						"adHeight"
+					],
+					[
+						"nav",
+						"navHeight"
+					],
+					[
+						"bann",
+						"bannerHeight"
+					],
+					[
+						"ba",
+						"background"
+					],
+					[
+						"spa",
+						"space-around\tjustify-content"
+					],
+					[
+						"block",
+						"inline-block\tdisplay"
+					],
+					[
+						"url",
+						"url()\tbackground"
+					],
+					[
+						"spac",
+						"space-between\tjustify-content"
+					],
+					[
+						"pa",
+						"padding"
+					],
+					[
+						"il",
+						"inline-block\tdisplay"
+					],
+					[
+						"border",
+						"border-box"
+					],
+					[
+						"box",
+						"box-sizing"
+					],
+					[
+						"di",
+						"display\tproperty"
+					],
+					[
+						"div",
+						"div"
+					],
+					[
+						"word",
+						"word-break\tproperty"
+					],
+					[
+						"txe",
+						"text-align"
+					],
+					[
+						"column",
+						"column\tflex-direction"
+					],
+					[
+						"or",
+						"order-on\t(order.less)"
+					],
+					[
+						"fonts",
+						"font-size\tproperty"
+					],
+					[
 						"console",
 						"console.log"
 					],
@@ -402,24 +1002,8 @@
 						"footerHeight\t(base.less)"
 					],
 					[
-						"margin",
-						"margin-bottom\tproperty"
-					],
-					[
-						"border",
-						"border-bottom"
-					],
-					[
-						"padding",
-						"padding-top\tproperty"
-					],
-					[
 						"a",
 						"a\ta-none"
-					],
-					[
-						"flex",
-						"flex-end\tjustify-content"
 					],
 					[
 						"heade",
@@ -428,10 +1012,6 @@
 					[
 						"animation",
 						"animation-play-state\tproperty"
-					],
-					[
-						"animation-",
-						"animation-iteration-count\tproperty"
 					],
 					[
 						"anima",
@@ -462,14 +1042,6 @@
 						"transform\tCSS - transform: ;"
 					],
 					[
-						"html",
-						"html\tMyHTML1"
-					],
-					[
-						"index",
-						"index.html"
-					],
-					[
 						"day",
 						"day16_a1.html"
 					],
@@ -494,20 +1066,12 @@
 						"absolute\tposition"
 					],
 					[
-						"pos",
-						"position\tproperty"
-					],
-					[
 						"pading",
 						"padding-left\tproperty"
 					],
 					[
 						"paddng",
 						"padding-left\tproperty"
-					],
-					[
-						"con",
-						"contain\tbackground-size"
 					],
 					[
 						"im",
@@ -538,10 +1102,6 @@
 						"box-sizing\tproperty"
 					],
 					[
-						"pad",
-						"padding\tproperty"
-					],
-					[
 						"font",
 						"font-size\tproperty"
 					],
@@ -552,10 +1112,6 @@
 					[
 						"min",
 						"min-width\tproperty"
-					],
-					[
-						"ba",
-						"background\tproperty"
 					],
 					[
 						"style",
@@ -615,17 +1171,116 @@
 			"expanded_folders":
 			[
 				"/D/Apache24/htdocs",
-				"/D/Apache24/htdocs/day17"
+				"/D/Apache24/htdocs/flappybird",
+				"/D/Apache24/htdocs/nav"
 			],
 			"file_history":
 			[
+				"/D/Apache24/htdocs/index.html",
+				"/D/Apache24/htdocs/day22/day22_a1.html",
+				"/D/Apache24/htdocs/day21/day21_a3.js",
+				"/D/Apache24/htdocs/day22/day22_m1.js",
+				"/D/Apache24/htdocs/day21/day21_a2.js",
+				"/D/Apache24/htdocs/day22/rain.html",
+				"/D/Apache24/htdocs/day20/day20_a2.js",
+				"/E/Front-End/hn-failte.github.io/_posts/2019-02-10-c-gluttonous-snake.md",
+				"/E/Front-End/hn-failte.github.io/_posts/2019-02-10-css-content-center.md",
+				"/E/Front-End/hn-failte.github.io/_posts/2019-02-10-css-layout-model.md",
+				"/E/Front-End/hn-failte.github.io/_posts/2019-02-10-discuz-website.md",
+				"/E/Front-End/hn-failte.github.io/_posts/2019-02-10-js-closure.md",
+				"/E/Front-End/hn-failte.github.io/_posts/2019-02-10-js-logic-compute.md",
+				"/E/Front-End/hn-failte.github.io/_posts/2019-02-10-js-timer-function.md",
+				"/E/Front-End/hn-failte.github.io/_posts/2019-02-10-markdown-total.md",
+				"/E/Front-End/hn-failte.github.io/_posts/2019-02-10-Markdown-Editor-Example.md",
+				"/E/Front-End/hn-failte.github.io/_posts/2019-02-18-js-RegExp-Standard.md",
+				"/E/Front-End/hn-failte.github.io/_posts/2019-02-19-html-List-Style.md",
+				"/E/Front-End/hn-failte.github.io/_posts/2019-02-20-css-Import-CSS.md",
+				"/E/Front-End/hn-failte.github.io/_posts/2019-02-21-css-CSS-Selector.md",
+				"/C/Users/failte/Desktop/1阶段总结.md",
+				"/D/Apache24/htdocs/day20/day20_a3.html",
+				"/E/Front-End/hn-failte.github.io/_posts/2019-03-20-js-value-change.md",
+				"/E/Front-End/Front-End/UnSort/javascript犀利的效果100个   你懂得/CSS将图片自动变为圆角/code.htm",
+				"/E/Front-End/Front-End/UnSort/javascript犀利的效果100个   你懂得/CSS强制等比例缩小图片/code.htm",
+				"/E/Front-End/Front-End/UnSort/test4.html",
+				"/E/Front-End/Front-End/UnSort/demo2.html",
+				"/E/Front-End/Front-End/UnSort/canvas.html",
+				"/E/Front-End/Front-End/UnSort/test5.html",
+				"/E/Front-End/Front-End/UnSort/test3.html",
+				"/E/Front-End/hn-failte.github.io/_posts/2019-03-17-css-LESS.md",
+				"/E/Front-End/hn-failte.github.io/_posts/2019-02-10-js-eventlistener.md",
+				"/D/Apache24/htdocs/flappybird/index.js",
+				"/D/Apache24/htdocs/flappybird/index.html",
+				"/D/Apache24/htdocs/flappybird/index.less",
+				"/C/Users/failte/AppData/Roaming/Sublime Text 3/Packages/User/Package Control.sublime-settings",
+				"/D/Apache24/htdocs/flappybird/reset.css",
+				"/D/Apache24/htdocs/day18/file.js",
+				"/D/Apache24/htdocs/day18/router.js",
+				"/E/Front-End/Front-End/JavaScript深度学习/Node.js/myhttp.js.dump",
+				"/C/Users/failte/AppData/Roaming/Sublime Text 3/Packages/User/css-reset1.sublime-snippet",
+				"/d/Apache24/htdocs/day18/day18_a1.js",
+				"/E/1000Phone/资料/阶段.md",
+				"/D/Apache24/htdocs/nav/index.html",
+				"/D/Apache24/htdocs/nav/css/base.less",
+				"/D/Apache24/htdocs/nav/css/index.less",
+				"/D/Apache24/htdocs/nav/js/index.js",
+				"/D/Apache24/htdocs/nav/js/links.json",
+				"/C/Users/failte/Desktop/test.html",
+				"/D/Apache24/htdocs/nav/ajax.php",
+				"/D/Apache24/htdocs/nav/index.php",
+				"/D/Apache24/htdocs/nav/server_node.js",
+				"/D/Apache24/htdocs/nav/readImage.js",
+				"/E/Android/HomeManager/src/com/DreamMaker/HomeManager/MainActivity.java.dump",
+				"/E/Android/HomeManager/src/com/DreamMaker/HomeManager/MainActivity.java",
+				"/D/Apache24/htdocs/ajax/index.php.dump",
+				"/E/Front-End/Front-End/JavaScript深度学习/Node.js/get.html",
+				"/E/Front-End/Front-End/JavaScript深度学习/Node.js/server.js",
+				"/E/Front-End/Front-End/JavaScript深度学习/Node.js/post.html",
+				"/E/Front-End/Front-End/JavaScript深度学习/Node.js/data.js",
+				"/E/Front-End/Front-End/JavaScript深度学习/Node.js/datatest.js",
+				"/E/Front-End/Front-End/JavaScript深度学习/积累阅读/JS跳转.md",
+				"/E/Front-End/Front-End/JavaScript深度学习/JS算法&函数.js",
+				"/E/Front-End/Front-End/JavaScript深度学习/Ajax/Demo16/test_16_2.php.dump",
+				"/D/Apache24/htdocs/LESS/test.less",
+				"/D/Apache24/htdocs/LESS/test.html",
+				"/D/Apache24/htdocs/LESS/test.css",
+				"/D/Apache24/htdocs/nav/index_0.html",
+				"/D/Apache24/htdocs/nav/css/reset.css",
+				"/D/Apache24/htdocs/nav/index.js",
+				"/D/Apache24/htdocs/nav/StarsGuidance.css.dump",
+				"/C/Users/failte/AppData/Roaming/Sublime Text 3/Packages/User/html5-model1.sublime-snippet",
+				"/C/Users/failte/AppData/Roaming/Sublime Text 3/Packages/User/html5-model2.sublime-snippet",
+				"/D/Apache24/htdocs/day17/meituan/css/base.less",
+				"/D/Apache24/htdocs/.gitignore",
+				"/D/Apache24/htdocs/day17/meituan/main.html",
+				"/D/Apache24/htdocs/day17/meituan/order.html",
+				"/D/Apache24/htdocs/day17/meituan/my.html",
+				"/D/Apache24/htdocs/day17/meituan/index.html",
+				"/D/Apache24/htdocs/day17/meituan/css/main.less",
+				"/C/Users/failte/AppData/Roaming/Sublime Text 3/Packages/User/css-rem.sublime-snippet",
+				"/C/Users/failte/AppData/Roaming/Sublime Text 3/Packages/User/less-config.sublime-snippet",
+				"/C/Users/failte/AppData/Roaming/Sublime Text 3/Packages/User/a-none.sublime-snippet",
+				"/C/Users/failte/Desktop/胡志成/reset.css",
+				"/C/Users/failte/AppData/Roaming/Sublime Text 3/Packages/User/MyHTML1.sublime-snippet",
+				"/C/Users/failte/AppData/Roaming/Sublime Text 3/Packages/User/MyHTML2.sublime-snippet",
+				"/C/Users/failte/AppData/Roaming/Sublime Text 3/Packages/User/MyCSSReset1.sublime-snippet",
+				"/C/Users/failte/Desktop/胡志成/web/html/page1.html",
+				"/C/Users/failte/Desktop/胡志成/web/css/page2.css",
+				"/C/Users/failte/Desktop/胡志成/web/html/page2.html",
+				"/C/Users/failte/Desktop/胡志成/web/css/base.less",
+				"/C/Users/failte/Desktop/胡志成/web/css/page2.less",
+				"/C/Users/failte/Desktop/胡志成/pc/html/index.html",
+				"/C/Users/failte/Desktop/胡志成/pc/css/index.less",
+				"/C/Users/failte/Desktop/胡志成/web/css/page1.less",
+				"/D/Apache24/htdocs/index.css",
+				"/D/Apache24/htdocs/day14/huarun/base.less",
+				"/D/Apache24/htdocs/day14/huarun/index.html",
+				"/D/Apache24/htdocs/index.less",
+				"/D/Apache24/htdocs/day17/meituan/css/order.less",
+				"/D/Apache24/htdocs/day17/meituan/css/my.less",
+				"/D/Apache24/htdocs/day17/day17_m1.html",
 				"/C/Users/failte/Desktop/reset.css",
 				"/E/Front-End/Front-End/JavaScript深度学习/积累阅读/sublime_text3实用插件.md",
-				"/C/Users/failte/AppData/Roaming/Sublime Text 3/Packages/User/Package Control.sublime-settings",
-				"/D/Apache24/htdocs/day17/meituan/css/my.less",
 				"/C/Users/failte/AppData/Roaming/Sublime Text 3/Packages/DocBlockr/README.md",
-				"/D/Apache24/htdocs/day17/meituan/css/base.less",
-				"/D/Apache24/htdocs/day17/meituan/css/order.less",
 				"/D/Apache24/htdocs/day17/day17_a1.html",
 				"/C/Windows/System32/drivers/etc/hosts",
 				"/D/Apache24/htdocs/day17/day17_a1.less",
@@ -634,60 +1289,29 @@
 				"/D/Apache24/htdocs/day17/胡志成/meituan/my.html",
 				"/D/Apache24/htdocs/day17/day17_a2.html",
 				"/D/Apache24/htdocs/day17/meituan/order.less",
-				"/D/Apache24/htdocs/day17/meituan/my.html",
-				"/D/Apache24/htdocs/day17/meituan/index.html",
-				"/D/Apache24/htdocs/day17/meituan/order.html",
 				"/D/Apache24/htdocs/day17/meituan/my.less",
 				"/C/Users/failte/AppData/Roaming/Sublime Text 3/Packages/User/cssrem.sublime-settings",
 				"/D/Apache24/htdocs/day17/day17_a2.less",
 				"/C/Users/failte/AppData/Roaming/Sublime Text 3/Packages/Package Control/Package Control.sublime-settings",
 				"/C/Users/failte/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
 				"/D/Apache24/htdocs/day17/day17_m1.less",
-				"/D/Apache24/htdocs/day17/day17_m1.html",
 				"/D/Apache24/htdocs/day17/meituan/index.less",
 				"/D/Apache24/htdocs/day17/meituan/reset.css",
 				"/D/Apache24/htdocs/day17/meituan/base.less",
 				"/D/Apache24/htdocs/day13/shapes.html",
-				"/D/Apache24/htdocs/index.html",
 				"/D/Apache24/htdocs/day16/day16_a1.html",
 				"/D/Apache24/htdocs/day16/meituan/index.html",
 				"/D/Apache24/htdocs/day16/meituan/index.less",
 				"/D/Apache24/htdocs/day16/meituan/base.less",
-				"/C/Users/failte/AppData/Roaming/Sublime Text 3/Packages/User/a-none.sublime-snippet",
-				"/C/Users/failte/Desktop/SublimeServer/SublimeServer.py",
-				"/D/Apache24/htdocs/day16/day16_a1.less",
-				"/D/Apache24/htdocs/day16/demo04.html",
-				"/E/1000Phone/资料/day16/demo04.html",
-				"/D/Apache24/htdocs/day15/day15_m1.html",
-				"/C/Users/failte/AppData/Roaming/Sublime Text 3/Packages/AutoFileName/autofilename.sublime-settings",
-				"/C/Users/failte/AppData/Roaming/Sublime Text 3/Packages/cssrem/cssrem.sublime-settings",
-				"/C/Users/failte/AppData/Roaming/Sublime Text 3/Packages/User/toRem.sublime-snippet",
-				"/D/Apache24/htdocs/day16/flexible.js",
-				"/D/Apache24/htdocs/day16/meituan/reset.css",
-				"/D/Apache24/htdocs/day15/alipay/index.css",
-				"/D/Apache24/htdocs/day15/alipay/index.html",
-				"/D/Apache24/htdocs/day15/alipay/test.html",
-				"/D/Apache24/htdocs/day14/huarun/base.less",
-				"/D/Apache24/htdocs/day15/day15_a1.html",
-				"/D/Apache24/htdocs/day15/football.html",
-				"/D/Apache24/htdocs/football.html",
-				"/E/1000Phone/资料/day15/football.html",
-				"/D/Apache24/htdocs/day13/shapes.less",
-				"/C/Users/failte/Desktop/计算机专业词汇.md",
-				"/D/Apache24/htdocs/day15/index.less",
-				"/D/Apache24/htdocs/index.css",
-				"/D/Apache24/htdocs/index.less",
-				"/D/Apache24/htdocs/day12/qianfeng/css/index.less",
-				"/D/Apache24/htdocs/LESS/test.less",
-				"/D/Apache24/htdocs/LESS/test.html"
+				"/C/Users/failte/Desktop/SublimeServer/SublimeServer.py"
 			],
 			"find":
 			{
-				"height": 28.0
+				"height": 29.0
 			},
 			"find_in_files":
 			{
-				"height": 0.0,
+				"height": 105.0,
 				"where_history":
 				[
 				]
@@ -697,6 +1321,14 @@
 				"case_sensitive": false,
 				"find_history":
 				[
+					"就是水仙花数。因为：",
+					"bird",
+					"birdFall",
+					"bird.birdFall",
+					"result",
+					"gameDiff",
+					"setBody",
+					"resetBody"
 				],
 				"highlight": true,
 				"in_selection": false,
@@ -727,7 +1359,7 @@
 			],
 			"incremental_find":
 			{
-				"height": 28.0
+				"height": 29.0
 			},
 			"input":
 			{
@@ -756,6 +1388,10 @@
 				]
 			},
 			"menu_visible": true,
+			"output.exec":
+			{
+				"height": 140.0
+			},
 			"output.find_results":
 			{
 				"height": 0.0
@@ -765,11 +1401,11 @@
 				"height": 132.0
 			},
 			"pinned_build_system": "",
-			"position": "0,2,3,-1,-1,-1,-1,588,51,51,705",
+			"position": "0,2,3,-1,-1,-1,-1,614,77,77,730",
 			"project": "",
 			"replace":
 			{
-				"height": 52.0
+				"height": 54.0
 			},
 			"save_all_on_build": true,
 			"select_file":
@@ -812,7 +1448,7 @@
 			"template_settings":
 			{
 			},
-			"window_id": 11,
+			"window_id": 31,
 			"workspace_name": ""
 		}
 	],
