@@ -1,0 +1,1 @@
+git clone https://github.com/spadgos/sublime-jsdocs.git

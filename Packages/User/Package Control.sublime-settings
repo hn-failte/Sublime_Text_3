@@ -28,7 +28,8 @@
 		"JsFormat",
 		"cssrem",
 		"AllAutocomplete",
-		"sublime-jsdocs",
-		"sublime-text-git"
+		"jsdocs",
+		"git",
+		"SublimeREPL"
 	]
 }
