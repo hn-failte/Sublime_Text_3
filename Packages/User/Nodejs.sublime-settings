@@ -1,0 +1,7 @@
+// Settings in here override those in "Nodejs/Nodejs.sublime-settings",
+// and are overridden in turn by syntax-specific settings.
+{
+	"node_command": "C:\\Program Files\\nodejs\\node.exe",
+
+	"npm_command": "C:\\Program Files\\nodejs\\npm.cmd",
+}

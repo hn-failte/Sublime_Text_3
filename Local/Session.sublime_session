@@ -1,0 +1,1544 @@
+{
+	"folder_history":
+	[
+		"/C/Users/W9002553/Desktop/js-bridge",
+		"/D/桌面/stylus",
+		"/D/桌面",
+		"/E/Front-End/hn-failte.github.io",
+		"/E/Front-End",
+		"/E/Front-End/JS",
+		"/D/Apache24/htdocs",
+		"/E/Front-End/NodeJS",
+		"/E/Front-End/Front-End",
+		"/E/Front-End/Front-End/Demo2 Iframe",
+		"/E/Front-End/Front-End/JavaScript深度学习",
+		"/C/Users/failte/Desktop/胡志成",
+		"/C/Users/failte/Desktop"
+	],
+	"last_version": 3207,
+	"last_window_id": 57,
+	"log_indexing": false,
+	"settings":
+	{
+		"new_window_height": 479.0,
+		"new_window_settings":
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"html",
+						"html\thtml5-model1"
+					],
+					[
+						"set",
+						"setInterval"
+					],
+					[
+						"for",
+						"for\tJS - For loop"
+					],
+					[
+						"log",
+						"console.log"
+					],
+					[
+						"meta",
+						"meta\tHTML - Meta tags"
+					],
+					[
+						"bn",
+						"btn0"
+					],
+					[
+						"even",
+						"evenSum"
+					],
+					[
+						"ar",
+						"arg1"
+					],
+					[
+						"rain",
+						"rainFall"
+					],
+					[
+						"con",
+						"console.log"
+					],
+					[
+						"bir",
+						"bird"
+					],
+					[
+						"marg",
+						"margin\tproperty"
+					],
+					[
+						"clear",
+						"clearRect"
+					],
+					[
+						"bird",
+						"birdW"
+					],
+					[
+						"pos",
+						"posY"
+					],
+					[
+						"base",
+						"baseHeight"
+					],
+					[
+						"pipeH",
+						"pipeBaseHeight"
+					],
+					[
+						"clea",
+						"clearInterval"
+					],
+					[
+						"co",
+						"console.log"
+					],
+					[
+						"pipe",
+						"pipe"
+					],
+					[
+						"icon",
+						"iconfont\t(index.html)"
+					],
+					[
+						"res",
+						"response"
+					],
+					[
+						"req",
+						"requestMsg"
+					],
+					[
+						"httpE",
+						"httpRequest"
+					],
+					[
+						"cons",
+						"const"
+					],
+					[
+						"consol",
+						"console.log\t(test.js)"
+					],
+					[
+						"print",
+						"print_r"
+					],
+					[
+						"var",
+						"var_dump"
+					],
+					[
+						"index",
+						"index.php"
+					],
+					[
+						"k",
+						"keyframes"
+					],
+					[
+						"table",
+						"table-layout\tproperty"
+					],
+					[
+						"wrap",
+						"wrapperHeight"
+					],
+					[
+						"wrapper",
+						"wrapper-box\t(index.html)"
+					],
+					[
+						"padding",
+						"padding\tproperty"
+					],
+					[
+						"margin-",
+						"margin-top\tproperty"
+					],
+					[
+						"auto",
+						"autofocus"
+					],
+					[
+						"search-b",
+						"search-box\t(index.html)"
+					],
+					[
+						"footer",
+						"footerHeight\t(base.less)"
+					],
+					[
+						"margin",
+						"margin\tproperty"
+					],
+					[
+						"header",
+						"headerHeight\t(base.less)"
+					],
+					[
+						"flex",
+						"flex-grow\tproperty"
+					],
+					[
+						"hid",
+						"hidden\toverflow"
+					],
+					[
+						"pad",
+						"padding"
+					],
+					[
+						"back",
+						"background-size"
+					],
+					[
+						"animation-",
+						"animation-play-state\tproperty"
+					],
+					[
+						"space",
+						"space-around\tjustify-content"
+					],
+					[
+						"no",
+						"nowrap\tflex-wrap"
+					],
+					[
+						"flex-",
+						"flex-wrap\tproperty"
+					],
+					[
+						"more",
+						"moreHeight"
+					],
+					[
+						"c",
+						"collapse\tborder-collapse"
+					],
+					[
+						"ce",
+						"cellspacing\tAttr"
+					],
+					[
+						"partner",
+						"partnerHeight"
+					],
+					[
+						"video",
+						"videoHeight"
+					],
+					[
+						"ved",
+						"videoHeight"
+					],
+					[
+						"compa",
+						"companyHeight"
+					],
+					[
+						"i",
+						"images/"
+					],
+					[
+						"ad",
+						"adHeight"
+					],
+					[
+						"nav",
+						"navHeight"
+					],
+					[
+						"bann",
+						"bannerHeight"
+					],
+					[
+						"ba",
+						"background"
+					],
+					[
+						"spa",
+						"space-around\tjustify-content"
+					],
+					[
+						"block",
+						"inline-block\tdisplay"
+					],
+					[
+						"url",
+						"url()\tbackground"
+					],
+					[
+						"spac",
+						"space-between\tjustify-content"
+					],
+					[
+						"pa",
+						"padding"
+					],
+					[
+						"il",
+						"inline-block\tdisplay"
+					],
+					[
+						"border",
+						"border-box"
+					],
+					[
+						"box",
+						"box-sizing"
+					],
+					[
+						"di",
+						"display\tproperty"
+					],
+					[
+						"div",
+						"div"
+					],
+					[
+						"word",
+						"word-break\tproperty"
+					],
+					[
+						"txe",
+						"text-align"
+					],
+					[
+						"column",
+						"column\tflex-direction"
+					],
+					[
+						"or",
+						"order-on\t(order.less)"
+					],
+					[
+						"fonts",
+						"font-size\tproperty"
+					],
+					[
+						"console",
+						"console.log"
+					],
+					[
+						"foo",
+						"footerHeight\t(base.less)"
+					],
+					[
+						"a",
+						"a\ta-none"
+					],
+					[
+						"heade",
+						"headerHeight"
+					],
+					[
+						"animation",
+						"animation-play-state\tproperty"
+					],
+					[
+						"anima",
+						"animation-duration\tproperty"
+					],
+					[
+						"transit",
+						"transition\tproperty"
+					],
+					[
+						"rotate",
+						"rotate3d()\ttransform"
+					],
+					[
+						"align",
+						"align-items\tproperty"
+					],
+					[
+						"tras",
+						"transform\tCSS - transform: ;"
+					],
+					[
+						"trans",
+						"transform\tproperty"
+					],
+					[
+						"tr",
+						"transform\tCSS - transform: ;"
+					],
+					[
+						"day",
+						"day16_a1.html"
+					],
+					[
+						"text",
+						"text-align\tproperty"
+					],
+					[
+						"rel",
+						"relative\tposition"
+					],
+					[
+						"sh",
+						"shoplogo.png\tw:80 h:80"
+					],
+					[
+						"margi",
+						"margin-right\tproperty"
+					],
+					[
+						"abs",
+						"absolute\tposition"
+					],
+					[
+						"pading",
+						"padding-left\tproperty"
+					],
+					[
+						"paddng",
+						"padding-left\tproperty"
+					],
+					[
+						"im",
+						"images"
+					],
+					[
+						"wid",
+						"width\tproperty"
+					],
+					[
+						"to",
+						"toRem"
+					],
+					[
+						"torem",
+						"toRem\ttoRem"
+					],
+					[
+						"bg",
+						"bg\tbackground: #${1:000};"
+					],
+					[
+						"inl",
+						"inline-block\tdisplay"
+					],
+					[
+						"boxs",
+						"box-sizing\tproperty"
+					],
+					[
+						"font",
+						"font-size\tproperty"
+					],
+					[
+						"texta",
+						"text-align\tproperty"
+					],
+					[
+						"min",
+						"min-width\tproperty"
+					],
+					[
+						"style",
+						"style\tTag"
+					],
+					[
+						"top",
+						"top-border"
+					]
+				]
+			},
+			"build_system_choices":
+			[
+				[
+					[
+						[
+							"Packages/Nodejs/Nodejs.sublime-build",
+							""
+						],
+						[
+							"Packages/SublimeREPL/sublimerepl_build_system_hack.sublime-build",
+							""
+						]
+					],
+					[
+						"Packages/Nodejs/Nodejs.sublime-build",
+						""
+					]
+				]
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"install",
+						"Package Control: Install Package"
+					],
+					[
+						"pack",
+						"Package Control: Remove Package"
+					],
+					[
+						"insta",
+						"Package Control: Install Package"
+					],
+					[
+						"ins",
+						"Install Package Control"
+					]
+				],
+				"width": 0.0
+			},
+			"console":
+			{
+				"height": 164.0,
+				"history":
+				[
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/D/桌面/tt.txt",
+				"/C/Users/W9002553/.ssh/id_rsa.pub",
+				"/C/Users/Failte/Desktop/test.html",
+				"/C/Users/Failte/Desktop/style.styl",
+				"/C/Users/Failte/Desktop/style.css",
+				"/E/Front-End/积累阅读/Emmet.md",
+				"/C/Users/failte/Desktop/抽取.md",
+				"/E/Front-End/NodeJS/nitianxieshen.com/get.js",
+				"/C/Users/failte/AppData/Roaming/Sublime Text 3/Packages/Nodejs/Default (Windows).sublime-keymap",
+				"/C/Users/failte/AppData/Roaming/Sublime Text 3/Packages/Nodejs/Nodejs.sublime-settings",
+				"/C/Users/failte/AppData/Roaming/Sublime Text 3/Packages/User/Package Control.sublime-settings",
+				"/E/Front-End/NodeJS/nitianxieshen.com/get_1.js",
+				"/E/Front-End/hn-failte.github.io/_posts/2019-03-29-js-node-spider.md",
+				"/E/1000Phone/资料/day27/7鼠标移入弹出div.html",
+				"/E/1000Phone/资料/day27/6全选案例.html",
+				"/E/1000Phone/资料/day27/5document.html",
+				"/E/Front-End/KuJS/KuJS_min.js",
+				"/E/Front-End/KuJS/KuJS.js",
+				"/E/1000Phone/资料/day27/4BOM.html",
+				"/E/1000Phone/资料/day27/3商品活动倒计时.html",
+				"/E/Front-End/NodeJS/nitianxieshen.com/2861.txt",
+				"/E/Front-End/KuJS/README.md",
+				"/E/Front-End/HTML&CSS/Project4 Scientific Caculator/test_D.html",
+				"/E/Front-End/HTML&CSS/Project4 Scientific Caculator/test_D.js.dump",
+				"/E/Front-End/HTML&CSS/Project4 Scientific Caculator/test_D_style.css",
+				"/E/Front-End/HTML&CSS/Project4 Scientific Caculator/test_D_UI.css",
+				"/C/Users/failte/Desktop/Calculator.html",
+				"/E/Front-End/HTML&CSS/Project4 Scientific Caculator/test_D.js",
+				"/E/1000Phone/资料/day27/Day10/1归并案例.html",
+				"/C/Users/failte/Desktop/date - css.html",
+				"/E/Front-End/JS/对象与函数/Date/Demo5 GetDate/test_5.html",
+				"/E/1000Phone/资料/day26/Day9/4json.html",
+				"/E/1000Phone/资料/day26/Day9/10定时器.html",
+				"/E/1000Phone/资料/day26/Day9/9时间设置.html",
+				"/E/1000Phone/资料/day26/Day9/8时间毫秒数.html",
+				"/E/1000Phone/资料/day26/Day9/6封装方法实现本地化时间.html",
+				"/E/1000Phone/资料/day26/Day9/7自定义时间.html",
+				"/E/1000Phone/资料/day26/Day9/5date对象.html",
+				"/E/1000Phone/资料/day26/Day9/3函数实参的副本.html",
+				"/E/1000Phone/资料/day26/Day9/2随机验证码.html",
+				"/E/1000Phone/资料/day26/Day9/1封装随机数.html",
+				"/E/1000Phone/资料/day26/Day9/作业答案/字母数字验证码 - css/验证码.html",
+				"/E/1000Phone/资料/day26/Day9/作业答案/学生成绩表/学生成绩表生成.html",
+				"/E/1000Phone/资料/day26/Day9/作业答案/数组应用--图片切换 - css/图片切换.html",
+				"/E/1000Phone/资料/day26/Day9/作业答案/ 验证用户名格式/验证用户名格式.html",
+				"/E/1000Phone/资料/day26/随机换图/随机换图.html",
+				"/E/1000Phone/资料/day26/随机抽学生/随机抽学生.html",
+				"/d/Apache24/htdocs/day26/dynamic_clock.html",
+				"/E/1000Phone/资料/day26/Math方法实现勾股定理（文本框+文本框=文本框的方式）/index.html",
+				"/D/Apache24/htdocs/blob.html",
+				"/E/1000Phone/资料/day25/public.js",
+				"/D/Apache24/htdocs/day25/H5scores.html",
+				"/D/Apache24/htdocs/day25/H5scores.less",
+				"/D/Apache24/htdocs/day25/pic_auto_change.html",
+				"/D/Program Files/mongodb/README",
+				"/E/1000Phone/资料/day25/作业/数组应用--图片切换 - css/图片切换.html",
+				"/E/Front-End/JS/canvas/checkcode.html",
+				"/E/1000Phone/资料/day25/作业/ 验证用户名格式/验证用户名格式.html",
+				"/D/Apache24/htdocs/biaobai/wall.sql",
+				"/D/Apache24/htdocs/biaobai/handle.php",
+				"/D/Apache24/htdocs/biaobai/index.php",
+				"/E/Front-End/NodeJS/npm使用指南.md",
+				"/E/Front-End/NodeJS/stream/test1.js",
+				"/E/Front-End/ES6/map.js",
+				"/E/Front-End/NodeJS/router/server.js",
+				"/E/Front-End/NodeJS/router/Router_demo1.js",
+				"/E/Front-End/NodeJS/Buffer_demo1.js",
+				"/E/Front-End/NodeJS/file/File_demo1_Readfile.js",
+				"/E/Front-End/NodeJS/file/File_demo2_Openread.js",
+				"/E/Front-End/NodeJS/file/os_demo.js",
+				"/E/Front-End/NodeJS/router/data.js",
+				"/E/Front-End/NodeJS/router/datatest.js",
+				"/E/Front-End/NodeJS/router/myhttp.js.dump",
+				"/E/Front-End/NodeJS/router/myhttp.js",
+				"/E/Front-End/NodeJS/stream/Stream_demo1_writer.js",
+				"/E/Front-End/NodeJS/stream/Stream_demo2_reader.js",
+				"/E/Front-End/NodeJS/stream/Stream_demo3_pipe.js",
+				"/E/Front-End/NodeJS/stream/Stream_demo4_chain.js",
+				"/E/Front-End/NodeJS/Router_demo1.js",
+				"/E/Front-End/NodeJS/test1.js",
+				"/E/Front-End/NodeJS/Global.md",
+				"/E/Front-End/NodeJS/data.js",
+				"/E/Front-End/NodeJS/datatest.js",
+				"/E/Front-End/NodeJS/callback/Function_demo2.js",
+				"/E/Front-End/NodeJS/os_demo.js",
+				"/E/Front-End/NodeJS/step.html",
+				"/E/Front-End/NodeJS/Function_demo1.js",
+				"/E/Collections/14416207、40、44/代码/tax.c",
+				"/d/Apache24/htdocs/day24/day24_m1.js",
+				"/E/Front-End/hn-failte.github.io/_posts/2019-02-18-js-RegExp-Standard.md",
+				"/E/Front-End/技术学习/HTML5 Canvas生成粒子效果的人物头像/html5-canvas-pixel-image/js/breathing-halftone.pkgd.js",
+				"/E/Front-End/技术学习/HTML5 Canvas生成粒子效果的人物头像/html5-canvas-pixel-image/index.html",
+				"/E/Front-End/技术学习/HTML5 Canvas生成粒子效果的人物头像/html5-canvas-pixel-image/js/scripts.js",
+				"/E/Front-End/技术学习/HTML小游戏/Html5游戏《城市消消乐》完整源码下载/index.html",
+				"/E/Front-End/Front-End/Project3 Data Rapid-Create Model/test_C.js",
+				"/E/Front-End/Front-End/Demo2 Iframe/test_2.html",
+				"/E/Front-End/Front-End/JavaScript深度学习/Mustache.js/mustache语法.md",
+				"/E/Front-End/Front-End/JavaScript深度学习/ES6/ES6.md",
+				"/E/Front-End/Front-End/Guess_Number/GuessNumber_h5.js",
+				"/E/Java/java_demo.dump",
+				"/E/Java/java_demo",
+				"/D/StuMgr.db",
+				"/E/Front-End/Front-End/JavaScript深度学习/Mustache.js/Mustache.html",
+				"/E/Front-End/Front-End/JavaScript深度学习/对象与函数/Object/test1.html",
+				"/E/Front-End/Front-End/JavaScript深度学习/对象与函数/Array.md",
+				"/E/Front-End/Front-End/JavaScript深度学习/积累阅读/JavaScript库.md",
+				"/E/Front-End/Front-End/JavaScript深度学习/积累阅读/Git版本管理.md",
+				"/E/Front-End/Front-End/JavaScript深度学习/学习项.md",
+				"/E/Front-End/Front-End/JavaScript深度学习/前端兼容问题.md",
+				"/E/Front-End/Front-End/JavaScript深度学习/跨域.md",
+				"/E/Front-End/Front-End/JavaScript深度学习/My Html.html",
+				"/E/Front-End/Front-End/JavaScript深度学习/JS学习进度.md",
+				"/D/Apache24/htdocs/flappybird/index.js",
+				"/E/Front-End/Front-End/JavaScript深度学习/js防掉坑.md",
+				"/E/Front-End/Front-End/JavaScript深度学习/css防掉坑.md",
+				"/E/Front-End/Front-End/JavaScript深度学习/JS算法&函数.js",
+				"/E/Front-End/Front-End/JavaScript深度学习/积累阅读/Linux基本操作.md",
+				"/E/Front-End/Front-End/JavaScript深度学习/对象与函数/JS全局属性、函数.md",
+				"/E/Front-End/hn-failte.github.io/_posts/2019-03-25-linux-base-command.md",
+				"/E/Front-End/hn-failte.github.io/_posts/2019-03-23-linux-install-nodejs.md",
+				"/E/Front-End/hn-failte.github.io/_posts/2019-03-23-js-key-feather - 副本.md",
+				"/E/Front-End/Front-End/images/baidu_icon.png",
+				"/E/Front-End/Front-End/Project6 KCT_tools/v2.0/step.html",
+				"/E/Front-End/Front-End/UnSort/canvas.html",
+				"/E/Front-End/Front-End/UnSort/a123.js",
+				"/E/Front-End/Front-End/UnSort/test3.html",
+				"/E/Front-End/Front-End/UnSort/o.js",
+				"/E/Front-End/Front-End/UnSort/爆炸赞/tween.js"
+			],
+			"find":
+			{
+				"height": 29.0
+			},
+			"find_in_files":
+			{
+				"height": 105.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"incremental_find":
+			{
+				"height": 29.0
+			},
+			"input":
+			{
+				"height": 45.0
+			},
+			"menu_visible": true,
+			"output.exec":
+			{
+				"height": 140.0
+			},
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"output.git":
+			{
+				"height": 132.0
+			},
+			"pinned_build_system": "",
+			"replace":
+			{
+				"height": 54.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"show_minimap": true,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 260.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			}
+		},
+		"new_window_width": 638.0
+	},
+	"windows":
+	[
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"html",
+						"html\thtml5-model1"
+					],
+					[
+						"set",
+						"setInterval"
+					],
+					[
+						"for",
+						"for\tJS - For loop"
+					],
+					[
+						"log",
+						"console.log"
+					],
+					[
+						"meta",
+						"meta\tHTML - Meta tags"
+					],
+					[
+						"bn",
+						"btn0"
+					],
+					[
+						"even",
+						"evenSum"
+					],
+					[
+						"ar",
+						"arg1"
+					],
+					[
+						"rain",
+						"rainFall"
+					],
+					[
+						"con",
+						"console.log"
+					],
+					[
+						"bir",
+						"bird"
+					],
+					[
+						"marg",
+						"margin\tproperty"
+					],
+					[
+						"clear",
+						"clearRect"
+					],
+					[
+						"bird",
+						"birdW"
+					],
+					[
+						"pos",
+						"posY"
+					],
+					[
+						"base",
+						"baseHeight"
+					],
+					[
+						"pipeH",
+						"pipeBaseHeight"
+					],
+					[
+						"clea",
+						"clearInterval"
+					],
+					[
+						"co",
+						"console.log"
+					],
+					[
+						"pipe",
+						"pipe"
+					],
+					[
+						"icon",
+						"iconfont\t(index.html)"
+					],
+					[
+						"res",
+						"response"
+					],
+					[
+						"req",
+						"requestMsg"
+					],
+					[
+						"httpE",
+						"httpRequest"
+					],
+					[
+						"cons",
+						"const"
+					],
+					[
+						"consol",
+						"console.log\t(test.js)"
+					],
+					[
+						"print",
+						"print_r"
+					],
+					[
+						"var",
+						"var_dump"
+					],
+					[
+						"index",
+						"index.php"
+					],
+					[
+						"k",
+						"keyframes"
+					],
+					[
+						"table",
+						"table-layout\tproperty"
+					],
+					[
+						"wrap",
+						"wrapperHeight"
+					],
+					[
+						"wrapper",
+						"wrapper-box\t(index.html)"
+					],
+					[
+						"padding",
+						"padding\tproperty"
+					],
+					[
+						"margin-",
+						"margin-top\tproperty"
+					],
+					[
+						"auto",
+						"autofocus"
+					],
+					[
+						"search-b",
+						"search-box\t(index.html)"
+					],
+					[
+						"footer",
+						"footerHeight\t(base.less)"
+					],
+					[
+						"margin",
+						"margin\tproperty"
+					],
+					[
+						"header",
+						"headerHeight\t(base.less)"
+					],
+					[
+						"flex",
+						"flex-grow\tproperty"
+					],
+					[
+						"hid",
+						"hidden\toverflow"
+					],
+					[
+						"pad",
+						"padding"
+					],
+					[
+						"back",
+						"background-size"
+					],
+					[
+						"animation-",
+						"animation-play-state\tproperty"
+					],
+					[
+						"space",
+						"space-around\tjustify-content"
+					],
+					[
+						"no",
+						"nowrap\tflex-wrap"
+					],
+					[
+						"flex-",
+						"flex-wrap\tproperty"
+					],
+					[
+						"more",
+						"moreHeight"
+					],
+					[
+						"c",
+						"collapse\tborder-collapse"
+					],
+					[
+						"ce",
+						"cellspacing\tAttr"
+					],
+					[
+						"partner",
+						"partnerHeight"
+					],
+					[
+						"video",
+						"videoHeight"
+					],
+					[
+						"ved",
+						"videoHeight"
+					],
+					[
+						"compa",
+						"companyHeight"
+					],
+					[
+						"i",
+						"images/"
+					],
+					[
+						"ad",
+						"adHeight"
+					],
+					[
+						"nav",
+						"navHeight"
+					],
+					[
+						"bann",
+						"bannerHeight"
+					],
+					[
+						"ba",
+						"background"
+					],
+					[
+						"spa",
+						"space-around\tjustify-content"
+					],
+					[
+						"block",
+						"inline-block\tdisplay"
+					],
+					[
+						"url",
+						"url()\tbackground"
+					],
+					[
+						"spac",
+						"space-between\tjustify-content"
+					],
+					[
+						"pa",
+						"padding"
+					],
+					[
+						"il",
+						"inline-block\tdisplay"
+					],
+					[
+						"border",
+						"border-box"
+					],
+					[
+						"box",
+						"box-sizing"
+					],
+					[
+						"di",
+						"display\tproperty"
+					],
+					[
+						"div",
+						"div"
+					],
+					[
+						"word",
+						"word-break\tproperty"
+					],
+					[
+						"txe",
+						"text-align"
+					],
+					[
+						"column",
+						"column\tflex-direction"
+					],
+					[
+						"or",
+						"order-on\t(order.less)"
+					],
+					[
+						"fonts",
+						"font-size\tproperty"
+					],
+					[
+						"console",
+						"console.log"
+					],
+					[
+						"foo",
+						"footerHeight\t(base.less)"
+					],
+					[
+						"a",
+						"a\ta-none"
+					],
+					[
+						"heade",
+						"headerHeight"
+					],
+					[
+						"animation",
+						"animation-play-state\tproperty"
+					],
+					[
+						"anima",
+						"animation-duration\tproperty"
+					],
+					[
+						"transit",
+						"transition\tproperty"
+					],
+					[
+						"rotate",
+						"rotate3d()\ttransform"
+					],
+					[
+						"align",
+						"align-items\tproperty"
+					],
+					[
+						"tras",
+						"transform\tCSS - transform: ;"
+					],
+					[
+						"trans",
+						"transform\tproperty"
+					],
+					[
+						"tr",
+						"transform\tCSS - transform: ;"
+					],
+					[
+						"day",
+						"day16_a1.html"
+					],
+					[
+						"text",
+						"text-align\tproperty"
+					],
+					[
+						"rel",
+						"relative\tposition"
+					],
+					[
+						"sh",
+						"shoplogo.png\tw:80 h:80"
+					],
+					[
+						"margi",
+						"margin-right\tproperty"
+					],
+					[
+						"abs",
+						"absolute\tposition"
+					],
+					[
+						"pading",
+						"padding-left\tproperty"
+					],
+					[
+						"paddng",
+						"padding-left\tproperty"
+					],
+					[
+						"im",
+						"images"
+					],
+					[
+						"wid",
+						"width\tproperty"
+					],
+					[
+						"to",
+						"toRem"
+					],
+					[
+						"torem",
+						"toRem\ttoRem"
+					],
+					[
+						"bg",
+						"bg\tbackground: #${1:000};"
+					],
+					[
+						"inl",
+						"inline-block\tdisplay"
+					],
+					[
+						"boxs",
+						"box-sizing\tproperty"
+					],
+					[
+						"font",
+						"font-size\tproperty"
+					],
+					[
+						"texta",
+						"text-align\tproperty"
+					],
+					[
+						"min",
+						"min-width\tproperty"
+					],
+					[
+						"style",
+						"style\tTag"
+					],
+					[
+						"top",
+						"top-border"
+					]
+				]
+			},
+			"buffers":
+			[
+			],
+			"build_system": "",
+			"build_system_choices":
+			[
+				[
+					[
+						[
+							"Packages/Nodejs/Nodejs.sublime-build",
+							""
+						],
+						[
+							"Packages/SublimeREPL/sublimerepl_build_system_hack.sublime-build",
+							""
+						]
+					],
+					[
+						"Packages/Nodejs/Nodejs.sublime-build",
+						""
+					]
+				]
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"ins",
+						"Package Control: Install Package"
+					],
+					[
+						"remove",
+						"Package Control: Remove Package"
+					],
+					[
+						"install",
+						"Package Control: Install Package"
+					],
+					[
+						"insta",
+						"Package Control: Install Package"
+					],
+					[
+						"in",
+						"Package Control: Install Package"
+					],
+					[
+						"remove p",
+						"Package Control: Remove Package"
+					],
+					[
+						"pack",
+						"Package Control: Remove Package"
+					]
+				],
+				"width": 0.0
+			},
+			"console":
+			{
+				"height": 164.0,
+				"history":
+				[
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"expanded_folders":
+			[
+				"/C/Users/W9002553/Desktop/js-bridge",
+				"/C/Users/W9002553/Desktop/js-bridge/src",
+				"/C/Users/W9002553/Desktop/js-bridge/src/internal"
+			],
+			"file_history":
+			[
+				"/C/Users/W9002553/Desktop/stylus/package.json",
+				"/C/Users/W9002553/package.json",
+				"/C/Users/W9002553/Desktop/js-bridge/src/internal/postMsgAsync.js",
+				"/C/Users/W9002553/Desktop/js-bridge/src/dialPhone.js",
+				"/C/Users/W9002553/Desktop/js-bridge/src/internal/baseConstants.js",
+				"/C/Users/W9002553/Desktop/js-bridge/src/reserveApp.js",
+				"/C/Users/W9002553/Desktop/js-bridge/src/closePage.js",
+				"/C/Users/W9002553/AppData/Roaming/Sublime Text 3/Packages/HTML-CSS-JS Prettify/HTMLPrettify.sublime-settings",
+				"/D/桌面/tt.txt",
+				"/C/Users/W9002553/.ssh/id_rsa.pub",
+				"/C/Users/Failte/Desktop/test.html",
+				"/C/Users/Failte/Desktop/style.styl",
+				"/C/Users/Failte/Desktop/style.css",
+				"/E/Front-End/积累阅读/Emmet.md",
+				"/C/Users/failte/Desktop/抽取.md",
+				"/E/Front-End/NodeJS/nitianxieshen.com/get.js",
+				"/C/Users/failte/AppData/Roaming/Sublime Text 3/Packages/Nodejs/Default (Windows).sublime-keymap",
+				"/C/Users/failte/AppData/Roaming/Sublime Text 3/Packages/Nodejs/Nodejs.sublime-settings",
+				"/C/Users/failte/AppData/Roaming/Sublime Text 3/Packages/User/Package Control.sublime-settings",
+				"/E/Front-End/NodeJS/nitianxieshen.com/get_1.js",
+				"/E/Front-End/hn-failte.github.io/_posts/2019-03-29-js-node-spider.md",
+				"/E/1000Phone/资料/day27/7鼠标移入弹出div.html",
+				"/E/1000Phone/资料/day27/6全选案例.html",
+				"/E/1000Phone/资料/day27/5document.html",
+				"/E/Front-End/KuJS/KuJS_min.js",
+				"/E/Front-End/KuJS/KuJS.js",
+				"/E/1000Phone/资料/day27/4BOM.html",
+				"/E/1000Phone/资料/day27/3商品活动倒计时.html",
+				"/E/Front-End/NodeJS/nitianxieshen.com/2861.txt",
+				"/E/Front-End/KuJS/README.md",
+				"/E/Front-End/HTML&CSS/Project4 Scientific Caculator/test_D.html",
+				"/E/Front-End/HTML&CSS/Project4 Scientific Caculator/test_D.js.dump",
+				"/E/Front-End/HTML&CSS/Project4 Scientific Caculator/test_D_style.css",
+				"/E/Front-End/HTML&CSS/Project4 Scientific Caculator/test_D_UI.css",
+				"/C/Users/failte/Desktop/Calculator.html",
+				"/E/Front-End/HTML&CSS/Project4 Scientific Caculator/test_D.js",
+				"/E/1000Phone/资料/day27/Day10/1归并案例.html",
+				"/C/Users/failte/Desktop/date - css.html",
+				"/E/Front-End/JS/对象与函数/Date/Demo5 GetDate/test_5.html",
+				"/E/1000Phone/资料/day26/Day9/4json.html",
+				"/E/1000Phone/资料/day26/Day9/10定时器.html",
+				"/E/1000Phone/资料/day26/Day9/9时间设置.html",
+				"/E/1000Phone/资料/day26/Day9/8时间毫秒数.html",
+				"/E/1000Phone/资料/day26/Day9/6封装方法实现本地化时间.html",
+				"/E/1000Phone/资料/day26/Day9/7自定义时间.html",
+				"/E/1000Phone/资料/day26/Day9/5date对象.html",
+				"/E/1000Phone/资料/day26/Day9/3函数实参的副本.html",
+				"/E/1000Phone/资料/day26/Day9/2随机验证码.html",
+				"/E/1000Phone/资料/day26/Day9/1封装随机数.html",
+				"/E/1000Phone/资料/day26/Day9/作业答案/字母数字验证码 - css/验证码.html",
+				"/E/1000Phone/资料/day26/Day9/作业答案/学生成绩表/学生成绩表生成.html",
+				"/E/1000Phone/资料/day26/Day9/作业答案/数组应用--图片切换 - css/图片切换.html",
+				"/E/1000Phone/资料/day26/Day9/作业答案/ 验证用户名格式/验证用户名格式.html",
+				"/E/1000Phone/资料/day26/随机换图/随机换图.html",
+				"/E/1000Phone/资料/day26/随机抽学生/随机抽学生.html",
+				"/d/Apache24/htdocs/day26/dynamic_clock.html",
+				"/E/1000Phone/资料/day26/Math方法实现勾股定理（文本框+文本框=文本框的方式）/index.html",
+				"/D/Apache24/htdocs/blob.html",
+				"/E/1000Phone/资料/day25/public.js",
+				"/D/Apache24/htdocs/day25/H5scores.html",
+				"/D/Apache24/htdocs/day25/H5scores.less",
+				"/D/Apache24/htdocs/day25/pic_auto_change.html",
+				"/D/Program Files/mongodb/README",
+				"/E/1000Phone/资料/day25/作业/数组应用--图片切换 - css/图片切换.html",
+				"/E/Front-End/JS/canvas/checkcode.html",
+				"/E/1000Phone/资料/day25/作业/ 验证用户名格式/验证用户名格式.html",
+				"/D/Apache24/htdocs/biaobai/wall.sql",
+				"/D/Apache24/htdocs/biaobai/handle.php",
+				"/D/Apache24/htdocs/biaobai/index.php",
+				"/E/Front-End/NodeJS/npm使用指南.md",
+				"/E/Front-End/NodeJS/stream/test1.js",
+				"/E/Front-End/ES6/map.js",
+				"/E/Front-End/NodeJS/router/server.js",
+				"/E/Front-End/NodeJS/router/Router_demo1.js",
+				"/E/Front-End/NodeJS/Buffer_demo1.js",
+				"/E/Front-End/NodeJS/file/File_demo1_Readfile.js",
+				"/E/Front-End/NodeJS/file/File_demo2_Openread.js",
+				"/E/Front-End/NodeJS/file/os_demo.js",
+				"/E/Front-End/NodeJS/router/data.js",
+				"/E/Front-End/NodeJS/router/datatest.js",
+				"/E/Front-End/NodeJS/router/myhttp.js.dump",
+				"/E/Front-End/NodeJS/router/myhttp.js",
+				"/E/Front-End/NodeJS/stream/Stream_demo1_writer.js",
+				"/E/Front-End/NodeJS/stream/Stream_demo2_reader.js",
+				"/E/Front-End/NodeJS/stream/Stream_demo3_pipe.js",
+				"/E/Front-End/NodeJS/stream/Stream_demo4_chain.js",
+				"/E/Front-End/NodeJS/Router_demo1.js",
+				"/E/Front-End/NodeJS/test1.js",
+				"/E/Front-End/NodeJS/Global.md",
+				"/E/Front-End/NodeJS/data.js",
+				"/E/Front-End/NodeJS/datatest.js",
+				"/E/Front-End/NodeJS/callback/Function_demo2.js",
+				"/E/Front-End/NodeJS/os_demo.js",
+				"/E/Front-End/NodeJS/step.html",
+				"/E/Front-End/NodeJS/Function_demo1.js",
+				"/E/Collections/14416207、40、44/代码/tax.c",
+				"/d/Apache24/htdocs/day24/day24_m1.js",
+				"/E/Front-End/hn-failte.github.io/_posts/2019-02-18-js-RegExp-Standard.md",
+				"/E/Front-End/技术学习/HTML5 Canvas生成粒子效果的人物头像/html5-canvas-pixel-image/js/breathing-halftone.pkgd.js",
+				"/E/Front-End/技术学习/HTML5 Canvas生成粒子效果的人物头像/html5-canvas-pixel-image/index.html",
+				"/E/Front-End/技术学习/HTML5 Canvas生成粒子效果的人物头像/html5-canvas-pixel-image/js/scripts.js",
+				"/E/Front-End/技术学习/HTML小游戏/Html5游戏《城市消消乐》完整源码下载/index.html",
+				"/E/Front-End/Front-End/Project3 Data Rapid-Create Model/test_C.js",
+				"/E/Front-End/Front-End/Demo2 Iframe/test_2.html",
+				"/E/Front-End/Front-End/JavaScript深度学习/Mustache.js/mustache语法.md",
+				"/E/Front-End/Front-End/JavaScript深度学习/ES6/ES6.md",
+				"/E/Front-End/Front-End/Guess_Number/GuessNumber_h5.js",
+				"/E/Java/java_demo.dump",
+				"/E/Java/java_demo",
+				"/D/StuMgr.db",
+				"/E/Front-End/Front-End/JavaScript深度学习/Mustache.js/Mustache.html",
+				"/E/Front-End/Front-End/JavaScript深度学习/对象与函数/Object/test1.html",
+				"/E/Front-End/Front-End/JavaScript深度学习/对象与函数/Array.md",
+				"/E/Front-End/Front-End/JavaScript深度学习/积累阅读/JavaScript库.md",
+				"/E/Front-End/Front-End/JavaScript深度学习/积累阅读/Git版本管理.md",
+				"/E/Front-End/Front-End/JavaScript深度学习/学习项.md",
+				"/E/Front-End/Front-End/JavaScript深度学习/前端兼容问题.md",
+				"/E/Front-End/Front-End/JavaScript深度学习/跨域.md",
+				"/E/Front-End/Front-End/JavaScript深度学习/My Html.html",
+				"/E/Front-End/Front-End/JavaScript深度学习/JS学习进度.md",
+				"/D/Apache24/htdocs/flappybird/index.js",
+				"/E/Front-End/Front-End/JavaScript深度学习/js防掉坑.md",
+				"/E/Front-End/Front-End/JavaScript深度学习/css防掉坑.md",
+				"/E/Front-End/Front-End/JavaScript深度学习/JS算法&函数.js",
+				"/E/Front-End/Front-End/JavaScript深度学习/积累阅读/Linux基本操作.md",
+				"/E/Front-End/Front-End/JavaScript深度学习/对象与函数/JS全局属性、函数.md",
+				"/E/Front-End/hn-failte.github.io/_posts/2019-03-25-linux-base-command.md",
+				"/E/Front-End/hn-failte.github.io/_posts/2019-03-23-linux-install-nodejs.md"
+			],
+			"find":
+			{
+				"height": 29.0
+			},
+			"find_in_files":
+			{
+				"height": 105.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"folders":
+			[
+				{
+					"path": "C:\\Users\\W9002553\\Desktop\\js-bridge"
+				}
+			],
+			"groups":
+			[
+				{
+					"sheets":
+					[
+					]
+				}
+			],
+			"incremental_find":
+			{
+				"height": 29.0
+			},
+			"input":
+			{
+				"height": 45.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"output.exec":
+			{
+				"height": 140.0
+			},
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"output.git":
+			{
+				"height": 132.0
+			},
+			"pinned_build_system": "",
+			"position": "0,2,3,-32000,-32000,-1,-1,720,182,182,836",
+			"project": "",
+			"replace":
+			{
+				"height": 54.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"selected_group": 0,
+			"settings":
+			{
+			},
+			"show_minimap": true,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 260.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			},
+			"window_id": 57,
+			"workspace_name": ""
+		}
+	],
+	"workspaces":
+	{
+		"recent_workspaces":
+		[
+		]
+	}
+}

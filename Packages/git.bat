@@ -1,0 +1,1 @@
+git clone https://github.com/kemayo/sublime-text-git.git
